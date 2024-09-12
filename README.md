@@ -5,11 +5,11 @@ Questa repository contiene una raccolta di tutti i miei progetti. Ogni progetto 
 
 ### Progetti attualmente disponibili:
 
-1. **[Todo App](./todo_app/README.md)**  
+1. **[Todo App](./Todo-app/README.md)**  
    Un'applicazione semplice per gestire le attività giornaliere. Permette agli utenti di aggiungere, modificare, eliminare e contrassegnare attività come completate.
 
    - **Linguaggi**: JavaScript, HTML, CSS
-   - **Frameworks/Librerie**: React, Node.js
+   - **Frameworks/Librerie**: Angular, Node.js
    - **Stato**: Completato
 
 ## Struttura della Repository
