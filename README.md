@@ -5,7 +5,7 @@ Questa repository contiene una raccolta di tutti i miei progetti. Ogni progetto 
 
 ### Progetti attualmente disponibili:
 
-1. **[Todo App](./Todo-app/README.md)**  
+1. **[Todo App](https://github.com/Dokjolly0/Todo-app/blob/main/README.md)**   
    Un'applicazione semplice per gestire le attività giornaliere. Permette agli utenti di aggiungere, modificare, eliminare e contrassegnare attività come completate.
 
    - **Linguaggi**: JavaScript, HTML, CSS
